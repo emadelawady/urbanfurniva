@@ -1,0 +1,55 @@
+<?php
+
+return [
+    'homepage-why-us' => 'Why Us ?',
+    'homepage-feat-1' => 'Expertise',
+    'homepage-feat-1-desc' => 'Years of experience in the industry with a focus on precision and quality.',
+    'homepage-feat-2' => 'Customization',
+    'homepage-feat-2-desc' => 'Tailored solutions that cater to your unique preferences and needs.',
+    'homepage-feat-3' => 'Global Reach',
+    'homepage-feat-3-desc' => 'Serving diverse markets in Saudi Arabia and the United States.',
+    'homepage-feat-4' => 'Sustainability',
+    'homepage-feat-4-desc' => 'Commitment to environmentally responsible practices in all our operations.',
+    'let-urban' => 'Let Urban Furniva bring your vision to life, crafting spaces that reflect your style and aspirations. Contact us today to begin your journey to exceptional living spaces.',
+    'new-furniture' => 'New Furniture',
+    'new-kitchens' => 'New Kitchens',
+    'our-works' => 'Our Works',
+    'our-works-desc' => 'Our qualified staff provides design consultation to Land Rich partners and after-sales service.',
+    'about-company' => 'About Us',
+    'about-company-desc-1' => 'Welcome to Landreach Industry, proudly operating under our trade name, Urban Furniva. With a steadfast commitment to excellence and innovation, we specialize in the manufacturing, supply, and installation of top-quality kitchens, cabinets, granite, marble, and bespoke home furniture. Additionally, we provide and install state-of-the-art kitchen appliances, ensuring a seamless and complete experience for our valued clients.',
+    'about-company-desc-2' => 'Our journey began with a vision to redefine living spaces by combining functionality with elegance. From contemporary designs to timeless classics, our products are crafted with precision and care to meet diverse tastes and requirements. At Landreach Industry, we prioritize quality and customer satisfaction, delivering solutions that enhance the beauty and practicality of your spaces.',
+    'discover' => 'Discover',
+    'opinions' => 'the opinions',
+    'customer-says' => 'of some of our trusted customers.',
+    'design-your-pro-kitchen' => 'Design your professional kitchen',
+    'raise-the-size' => 'We have to raise the sizes',
+    'implementation' => 'Implementation, delivery to your door and installation',
+    'after-sale' => 'We also have after-sales service and active follow-up.',
+    'work-for-you' => 'We work for your comfort around the clock',
+    'work-for-you-all-week' => 'All days of the week',
+    'design-your-kitchen' => 'Design Kitchen',
+    'maintenance-request' => 'Maintenance request',
+    'taking-measurements' => 'Taking measurements',
+    'trust-by-many' => 'Trusted by many customers',
+    'many-customers-we-have' => 'We have many past and present clients.',
+    'done-clients' => 'Client completed',
+    'in-progress' => 'In progress',
+    'work-rate' => 'Work completion rate',
+    'message-sent' => 'Thank you for your message , your message sent',
+
+
+
+
+
+    'dream' => 'Dream Kitchen',
+    'everything' => 'We have everything you need to own your dream kitchen, wish and we will fulfill your wish',
+    'kitchen-as' => 'Your kitchen as you like',
+    'technicians' => 'Welcome, we have technicians and designers who see your request and work based on your visions',
+    'kitchen-is' => 'Your kitchen is once in a lifetime',
+    'highest-quality' => 'If you want the highest quality with the best price, Land Rich meets this request and more',
+    'competitive' => 'Competitive prices',
+    'comprehensive' => 'We have comprehensive and different price packages that meet all the needs of the market and the customer',
+    'contact-us' => 'Contact us and we will be there for you',
+    'professionalism' => 'Speed ​​and professionalism in dealing from the moment you contact us until the installation of your ideal dream kitchen is completed',
+
+];
